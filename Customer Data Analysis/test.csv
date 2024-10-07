@@ -1,0 +1,81 @@
+age,gender,lab_result1,lab_result2,medical_history
+25,Male,5.1,120,Diabetes
+30,Female,4.8,130,Hypertension
+45,Male,6.0,140,Diabetes;Hypertension
+50,Female,5.5,150,Heart Disease
+35,Male,5.0,125,Healthy
+60,Female,6.5,160,Diabetes
+40,Male,5.2,135,Hypertension
+55,Female,5.8,145,Heart Disease;Diabetes
+28,Male,4.9,128,Healthy
+65,Female,6.2,155,Heart Disease
+29,Male,5.3,123,Healthy
+32,Female,4.7,132,Hypertension
+48,Male,5.9,138,Diabetes
+52,Female,5.4,142,Heart Disease
+38,Male,5.1,126,Healthy
+62,Female,6.1,158,Diabetes
+41,Male,5.6,139,Hypertension
+54,Female,5.7,144,Heart Disease;Diabetes
+27,Male,4.8,121,Healthy
+66,Female,6.3,157,Heart Disease
+31,Male,5.0,124,Healthy
+37,Female,4.6,131,Hypertension
+49,Male,5.8,136,Diabetes
+53,Female,5.2,141,Heart Disease
+39,Male,5.4,134,Healthy
+61,Female,6.4,159,Diabetes
+42,Male,5.5,137,Hypertension
+56,Female,5.9,146,Heart Disease;Diabetes
+26,Male,4.9,122,Healthy
+64,Female,6.0,154,Heart Disease
+33,Male,5.3,127,Healthy
+36,Female,4.7,133,Hypertension
+47,Male,5.7,140,Diabetes
+51,Female,5.6,143,Heart Disease
+43,Male,5.2,130,Healthy
+58,Female,6.2,152,Diabetes
+34,Male,5.1,125,Healthy
+59,Female,5.8,149,Heart Disease;Diabetes
+24,Male,4.8,119,Healthy
+63,Female,6.1,156,Heart Disease
+44,Male,5.4,135,Hypertension
+57,Female,5.5,147,Heart Disease
+25,Male,5.0,121,Healthy
+30,Female,4.9,129,Hypertension
+45,Male,6.0,141,Diabetes;Hypertension
+50,Female,5.3,150,Heart Disease
+35,Male,5.2,126,Healthy
+60,Female,6.4,161,Diabetes
+40,Male,5.1,134,Hypertension
+55,Female,5.7,145,Heart Disease;Diabetes
+28,Male,4.9,128,Healthy
+65,Female,6.3,155,Heart Disease
+29,Male,5.3,123,Healthy
+32,Female,4.7,132,Hypertension
+48,Male,5.9,138,Diabetes
+52,Female,5.4,142,Heart Disease
+38,Male,5.1,126,Healthy
+62,Female,6.1,158,Diabetes
+41,Male,5.6,139,Hypertension
+54,Female,5.8,144,Heart Disease;Diabetes
+27,Male,4.8,121,Healthy
+66,Female,6.2,157,Heart Disease
+31,Male,5.0,124,Healthy
+37,Female,4.6,131,Hypertension
+49,Male,5.8,136,Diabetes
+53,Female,5.2,141,Heart Disease
+39,Male,5.4,134,Healthy
+61,Female,6.4,159,Diabetes
+42,Male,5.5,137,Hypertension
+56,Female,5.9,146,Heart Disease;Diabetes
+26,Male,4.9,122,Healthy
+64,Female,6.0,154,Heart Disease
+33,Male,5.3,127,Healthy
+36,Female,4.7,133,Hypertension
+47,Male,5.7,140,Diabetes
+51,Female,5.6,143,Heart Disease
+43,Male,5.2,130,Healthy
+58,Female,6.2,152,Diabetes
+34,Male,5.1,125,Healthy
+59,Female,5.8,149,Heart Disease;Diabetes
