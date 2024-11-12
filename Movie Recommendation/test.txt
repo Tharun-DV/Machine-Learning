@@ -1,0 +1,16 @@
+Title,Genre,Rating
+The Shawshank Redemption,Drama,9.3
+The Godfather,Crime,9.2
+The Dark Knight,Action,9.0
+Pulp Fiction,Crime,8.9
+Schindler's List,Biography,8.9
+The Lord of the Rings: The Return of the King,Action,8.9
+Forrest Gump,Drama,8.8
+Inception,Sci-Fi,8.8
+Fight Club,Drama,8.8
+The Matrix,Sci-Fi,8.7
+Goodfellas,Crime,8.7
+The Empire Strikes Back,Action,8.7
+Interstellar,Sci-Fi,8.6
+The Silence of the Lambs,Thriller,8.6
+The Green Mile,Drama,8.6
